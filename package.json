@@ -108,11 +108,6 @@
       "name": "Barış Soner Uşaklı",
       "email": "baris@nodebb.org",
       "url": "https://github.com/barisusakli"
-      'Font Names
-     '</Pesona>
-     '</Minecraft intergrate JAVA 9996/>
-     "engines": {
-       {
-         "node": ">=0.10"
-       }
-     }
+    }
+  ]
+}
